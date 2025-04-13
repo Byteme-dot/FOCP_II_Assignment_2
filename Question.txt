@@ -1,0 +1,58 @@
+# Assignment-Object Oriented Programming
+
+Design and implement an object-oriented solution for a Student Management System 
+that demonstrates a comprehensive understanding of C++ class concepts
+
+=> Problem Statement 
+
+A local university requires a software system to manage student information efficiently. The 
+system should provide functionality to: 
+• Create and manage student records 
+• Track student academic information 
+• Perform basic operations on student data
+
+# System Requirements
+
+1. Student Class Design
+
+Develop a Student class with the following specifications:
+
+• Private data members to store:  
+	o Student name 
+	o Roll number 
+	o CGPA 
+	o List of enrolled courses
+
+• Constructors:  
+	o Default constructor 
+	o Parameterized constructor to initialize basic student details 
+	o Copy constructor
+
+2. Student Management Functionality
+
+Implement methods in the Student class to: 
+
+• Add new courses to a student's record 
+• Update student CGPA 
+• Display complete student information 
+• Validate input data (e.g., CGPA range, course addition)
+
+
+3. Student Management System Class 
+
+Create a Student Management System class with capabilities to: 
+
+• Add new students to the system 
+• Search for students by roll number 
+• Display all student records 
+• Manage a collection of student objects 
+
+=> Functional Requirements 
+
+The system should support the following operations: 
+
+1. Create student records with different initialization methods 
+2. Add courses to a student's academic record 
+3. Update academic performance (CGPA) 
+4. Retrieve and display student information 
+5. Perform basic error checking and input validation
